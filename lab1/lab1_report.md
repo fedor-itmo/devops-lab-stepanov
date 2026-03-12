@@ -10,3 +10,5 @@ Date of finished:
 
 # Лабораторная работа 1
 ## Отчет:
+1. Скачал Docker desktop для винды и установил WSL, чтобы запустить докер
+<img width="1920" height="1080" alt="Снимок экрана (161)" src="https://github.com/user-attachments/assets/d1d46642-e438-4b5b-a3c2-0500220ee0bf" />
