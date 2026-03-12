@@ -37,6 +37,7 @@ Date of finished:
 <img width="1316" height="239" alt="Снимок экрана (177)" src="https://github.com/user-attachments/assets/81a0f98e-bd63-4744-8e57-fb4947579b34" />
 13. Создал том, запустил с ним контейнер, подключился и создал там файл, после чего удалил контейнер и создал новый с тем же томом
 <img width="1285" height="507" alt="Снимок экрана (179)" src="https://github.com/user-attachments/assets/289ea13c-5e91-4f8a-8b72-0d110eab1d0a" />
-<img width="1497" height="967" alt="Снимок экрана (178) — копия" src="https://github.com/user-attachments/assets/66b8d818-cdf2-4430-be65-330b578876ee" />  
+<img width="1497" height="967" alt="Снимок экрана (178) — копия" src="https://github.com/user-attachments/assets/66b8d818-cdf2-4430-be65-330b578876ee" />
+
 ## Результаты лабораторной работы:    
 Установил и настрил Docker, научился запускать контейнеры и управлять ими
