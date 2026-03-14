@@ -11,4 +11,4 @@ Date of finished:
 # Лабораторная работа 3
 ## Отчет:
 1. Создал папку prometheus и в ней файл prometheus.yml с нужным содержимым
-
+![Главный экран приложения](images lab3/glavny-ekran.png?raw=true)
