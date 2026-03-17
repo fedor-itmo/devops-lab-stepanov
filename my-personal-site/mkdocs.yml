@@ -1,0 +1,21 @@
+site_name: Федор Степанов - Персональный сайт
+site_description: сайт Степанова Федора для предмета Введение в ВебТех
+site_author: Федор Степанов
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.shares
+  palette:
+    primary: green
+    accent: green
+
+nav:
+  - Главная: index.md
+  - О себе: about.md
+  - Проекты: projects.md
+  - Контакты: contacts.md
