@@ -6,7 +6,7 @@ Group: U4125
 Author: Stepanov Fedor Aleksandrovich  
 Lab: Lab1  
 Date of create: 09.03.2026  
-Date of finished:   
+Date of finished: 16.03.2026   
 
 # Лабораторная работа 1
 ## Отчет:
